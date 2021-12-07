@@ -1,0 +1,17 @@
+
+
+.gridCompoImagenes
+{
+    display: grid;
+    grid-template-columns: 49% 49%;
+    margin: 12px;
+    background-color: rgb(248, 246, 246);
+    
+}
+
+.tamañoIMagenGruposPres img
+{
+    width: 100px;
+    height: 100px;
+}
+

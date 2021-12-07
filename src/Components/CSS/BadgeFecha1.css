@@ -1,0 +1,27 @@
+
+
+
+.tamImgeRealPico
+{
+    display: inline-block;
+}
+
+.tamImgeRealPico img
+{
+    width: 60px;
+    height: 60px;
+}
+
+
+.claseDisplay
+{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+
+
+.displeydereal
+{
+    margin-top: 10px;
+}

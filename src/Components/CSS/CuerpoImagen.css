@@ -1,0 +1,56 @@
+.gridInicio
+{
+    display: grid;
+    grid-template-rows: 210px 470px;
+    background-color: white;
+}
+
+
+.imagenCuerpo h3
+{
+    padding: 30px;
+    
+}
+
+.tamañoIMagenInicio
+{
+    display: flex;
+    justify-content: center;
+}
+
+.tamañoIMagenInicio img
+{
+    width: 30%;
+    height: 210px;
+}
+.carousel
+{
+    
+    background-color: red;
+}
+
+
+.carousel-inner
+{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
+
+.carousel-item 
+{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.carousel-item img
+{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+

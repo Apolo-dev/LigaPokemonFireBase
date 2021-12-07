@@ -1,0 +1,32 @@
+
+.gridBatalla1
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+  
+    
+}
+
+.gtidsssssssssssaa
+{
+    display: grid;
+    grid-template-rows: 60px 500px;
+    
+}
+
+.sddgrid
+{
+    display: grid;
+    grid-template-columns: 35% 25% 35%;
+    margin-top: 50px;
+    
+}
+
+.griduniccococ
+{
+    display: grid;
+    grid-template-columns: 38% 20% 38%;
+    margin-top: 40px;
+    padding: 50px;
+    margin-left: 60px;
+}

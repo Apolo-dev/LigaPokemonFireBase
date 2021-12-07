@@ -1,0 +1,14 @@
+.GridsepararTitulo
+{
+    display: grid;
+    grid-template-columns: 85% 15%;
+    margin-top: 15px;
+}
+
+.tituloBombo1
+{
+    text-align: center;
+    color: blue;
+    margin-left: 60px;
+}
+

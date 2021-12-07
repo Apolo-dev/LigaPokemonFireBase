@@ -1,0 +1,28 @@
+
+.div-img 
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.div-img img
+{
+    width: 70px;
+    height: 70px;
+    
+}
+
+.titulopokemonregistro
+{
+    padding: 10px;
+}
+
+.listaRegistro
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+ 

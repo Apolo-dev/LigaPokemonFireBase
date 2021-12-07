@@ -1,0 +1,21 @@
+
+.gridkksasssssssssss
+{
+    display: grid;
+    grid-template-rows: 60px 500px;
+}
+
+.gridknk23
+{
+    display: grid;
+    grid-template-columns: 35% 25% 35%;
+    margin-top: 50px;
+    
+}
+
+.kjkjb233
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

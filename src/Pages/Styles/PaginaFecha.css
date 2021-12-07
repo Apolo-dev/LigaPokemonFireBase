@@ -1,0 +1,85 @@
+.gridTotalPelea
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+.gridSegundo
+{
+    display: grid;
+    grid-template-rows: 60px 600px;
+}
+
+.gridPOkemonLista
+{
+    display: grid;
+    grid-template-columns: 32% 25% 32%;
+    margin-top: 60px;
+    margin-left: 110px;
+}
+
+
+h3
+{
+    text-align: center;
+}
+
+
+.botoncetePapu
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.botoncetePapu button
+{
+    width: 90%;
+    
+}
+
+.gridSeparaTitulos
+{
+    display: grid;
+    grid-template-rows: 60px 500px;
+}
+
+.tituloYgrupos h3
+{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tituloYgrupos h4 
+{
+    text-align: center;
+    margin-top: 10px ;
+    margin-bottom: 20px;
+}
+
+.botonSorteoMover 
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.botonSorteoMover button
+{
+    width: 200px;
+    height: 40px;
+    margin-top: 70%;
+}
+
+.moverPaginacion
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.moverBotoncito
+{
+    margin-top: 20px;
+    margin-left: 200px;
+}

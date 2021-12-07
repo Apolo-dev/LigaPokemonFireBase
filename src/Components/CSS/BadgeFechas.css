@@ -1,0 +1,20 @@
+.gridCompletoFechas
+{
+    display: grid;
+    grid-template-columns: 40% 15% 40%;
+}
+
+
+
+.grisFechaLos2
+{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+
+.tamIMagFechasss img
+{
+    width: 70px;
+    height: 70px;
+}

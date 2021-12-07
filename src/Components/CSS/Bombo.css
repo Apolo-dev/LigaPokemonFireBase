@@ -1,0 +1,13 @@
+.hjasabotonsd
+{
+    padding: 10px;
+    margin-left: 15px;
+    
+}
+
+.hjasabotonsd button
+{
+    display: flex;
+    align-items: center;
+    
+}

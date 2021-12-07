@@ -1,0 +1,14 @@
+
+.gridIngreso
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+
+}
+
+.gridcccc
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 25px;
+}

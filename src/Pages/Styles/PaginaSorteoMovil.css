@@ -1,0 +1,91 @@
+
+.gridSorteoMOil
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+.gridCuerpoSorteoipojss
+{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.gridBombosPPAPAPI
+{
+    display: grid;
+    grid-template-columns: 95%;
+}
+
+.cajas
+{
+    margin-left: 20px;
+}
+
+.separarDiv
+{
+    border: 1px solid black;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.separarDiv:hover
+{
+    border: 2px solid rgb(17, 0, 255);
+    
+}
+
+.imagenPeleasjj img
+{
+    width: 45px;
+    height: 45px;
+    margin-left: 25px;
+   
+}
+
+.nombrepOkesito
+{
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.gridbjajkbadconten
+{
+    display: grid;
+    grid-template-rows: 70px 500px;
+    
+}
+
+.tituolowwe
+{
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    color:blue
+}
+
+.gridGrupitos
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-right: 5px;
+    
+}
+
+.divGrupillos
+{
+    margin-left: 5px;
+}
+
+.bomboss
+{
+    margin-left: 5px;
+    border: none;
+}
+

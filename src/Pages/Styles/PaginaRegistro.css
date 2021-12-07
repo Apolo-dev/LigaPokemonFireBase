@@ -1,0 +1,37 @@
+
+.gridRegistro
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+
+.tituloRegistro
+{
+    background-color: rgb(9, 82, 110);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.gridhooks
+{
+    display: grid;
+    grid-template-columns: 33% 33% 33%; 
+    padding: 20px; 
+    margin-left: 70px;
+}
+
+.separarForm
+{
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.separBadge
+{
+    padding: 20px;
+    margin-top: 15px;
+}
+
+ 

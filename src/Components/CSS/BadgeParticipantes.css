@@ -1,0 +1,41 @@
+.imagenParticipantes
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.papidelFlow
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+
+.imagenParticipantes img
+{
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    
+
+    
+}
+
+.hjkhkdddd
+{
+    text-align: center;
+}
+
+.grisTotal
+{
+    display: inline-block;
+    margin-left: 400px;
+}
+
+.ordenar
+{
+    width: 300px;
+
+}

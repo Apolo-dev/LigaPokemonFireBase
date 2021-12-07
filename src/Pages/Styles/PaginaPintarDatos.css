@@ -1,0 +1,24 @@
+
+.gridPintarDatos
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+.gridkssssssssss
+{
+    display: grid;
+    grid-template-rows: 60px 500px;
+    
+}
+
+.cuerpoPintados
+{
+    margin-top: 30px;
+}
+
+.griddatirosss
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}

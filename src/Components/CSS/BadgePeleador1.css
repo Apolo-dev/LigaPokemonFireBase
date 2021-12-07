@@ -1,0 +1,45 @@
+
+.tamañoImagenPelador1
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.tamañoImagenPelador1 img
+{
+    width: 200px;
+    height: 200px;
+    
+}
+
+
+.tipoAtaque
+{
+    border: 1px solid black;
+    background-color: rgb(7, 33, 105);
+    color: white;
+    width: 70%;
+    text-align: center;
+    margin-left: 65px;
+}
+
+.badgePokem
+{
+    border: 1px solid rgb(206, 206, 206);
+    width: auto;
+}
+
+.vidaNumero
+{
+    text-align: center;
+}
+
+.TipoAtaqueListo
+{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}

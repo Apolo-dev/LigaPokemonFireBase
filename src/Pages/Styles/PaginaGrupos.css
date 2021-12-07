@@ -1,0 +1,51 @@
+
+.gridGrupos
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+.gridSegundoGrupos
+{
+    display: grid;
+    grid-template-rows: 60px 500px;
+}
+
+.gridCuarposGripus
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 600px 600px;
+    margin: 40px;
+    
+}
+
+.gridCasiGeneral
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.imagenGruposPokes img
+{
+    width: 80px;
+    height: 80px;
+}
+
+.tutilarrr
+{
+    margin-bottom: 10px;
+}
+
+.gridlaaaaaaaaaaaaaaaaa
+{
+    display: grid;
+    grid-template-rows: 50px 200px;
+    
+}
+
+.gridSeparaPokes
+{
+    display: inline-block;
+}
+

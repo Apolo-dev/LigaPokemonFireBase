@@ -1,0 +1,13 @@
+
+.dridPaginaPrueba
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+
+.gridNavPrueba
+{
+    display: grid;
+    grid-template-rows: 60px 500px;
+}

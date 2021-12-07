@@ -1,0 +1,40 @@
+
+.imagenBatalla1
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+.imagenBatalla1 img
+{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+    
+}
+
+
+.nombresito
+{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.sdsdsdr
+{
+    font-size: 18px;
+}
+
+.bkssss
+{
+    display: flex;
+    justify-content: center;
+}
+
+.bkssss button
+{
+    width: 90%;
+    
+}

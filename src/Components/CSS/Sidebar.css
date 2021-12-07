@@ -1,0 +1,50 @@
+
+.container 
+{
+    background-color: rgb(10, 38, 51);
+    width: auto;
+    height: 750px;
+}
+
+.titulo-sidebar
+{
+    color: white;
+    padding: 15px;
+}
+
+.titulo-sidebar h2
+{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.container ul li
+{
+    list-style: none;
+    padding: 10px;
+}
+
+.container ul li a:hover
+{
+    color: blue;
+}
+
+.container ul li a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px;
+}
+
+
+.dropdown-menu
+{
+    background-color: rgb(10, 38, 51);
+}
+
+.dropdown-item
+{
+    background-color: rgb(10, 38, 51);
+    color: rgb(66, 48, 24);
+}

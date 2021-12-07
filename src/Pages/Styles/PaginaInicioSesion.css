@@ -1,0 +1,21 @@
+
+.gridInicicc
+{
+    display: grid;
+    grid-template-rows: 60px 500px;
+}
+
+.gridknknk
+{
+    display: grid;
+    grid-template-columns: 35% 25% 35% ;
+    margin-top: 50px;
+}
+
+.boorrrr
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 15px;
+}

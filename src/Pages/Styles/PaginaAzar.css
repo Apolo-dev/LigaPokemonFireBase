@@ -1,0 +1,72 @@
+
+
+.gridNavbarAzar
+{
+    display: grid;
+    grid-template-rows: 60px 600px;
+}
+
+.griddivAzar
+{
+    display: grid;
+    grid-template-columns: 5% 23% 23% 23% 23%;
+    margin-top: 5px;
+}
+
+.tamañoLogoImagen
+{
+    margin: 10px;
+    margin-left: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+.tamañoLogoImagen img
+{
+    width: 320px;
+    height: 110px;
+}
+
+.separaBombos
+{
+    margin: 0px 15px;
+}
+
+.letraGrupos
+{
+    height: 50px;
+    margin-top: 10px;
+}
+
+.listatataasf
+{
+    list-style: none;
+}
+
+.titulodelGrupo 
+{
+    margin-top: 5px ;
+
+}
+
+.letraGrupos2
+{
+    margin-top: 25px ;
+}
+
+.grisTituloAzar
+{
+    display: grid;
+    grid-template-columns: 80% 20% ;
+}
+
+.botonTituloAzar
+{
+    margin-top: 50px;
+}
+
+.botonAvanzar
+{
+    width: 170px;
+    height: 40px;
+}

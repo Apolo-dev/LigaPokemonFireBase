@@ -1,0 +1,26 @@
+
+.gridTurno1
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+.estiloTituloPelieas
+{
+    height: 60px;
+    width: 100%;
+
+}
+
+
+.gridTurno
+{
+    display: grid;
+    grid-template-columns: 40% 15% 40%;
+}
+
+.esapcioTurno1
+{
+    margin: 25px;
+}
+

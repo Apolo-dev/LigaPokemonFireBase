@@ -1,0 +1,35 @@
+
+.tamañoImagenBadgeParti
+{
+    display: flex;
+    justify-content: center;
+} 
+
+
+
+.tamañoImagenBadgeParti img
+{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.papidelFlow
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.grisTotal
+{
+    margin-bottom: 10px;
+}
+
+.ordenar
+{
+    width: 240px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    border: 1px solid rgb(219, 218, 218);
+}

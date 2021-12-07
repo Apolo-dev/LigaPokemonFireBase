@@ -1,0 +1,33 @@
+
+.gridResultados
+{
+    display: grid;
+    grid-template-columns: 83% 17%;
+}
+
+.gridNavbResult
+{
+    display: grid;
+    grid-template-rows: 60px 600px;
+}
+
+.moverTABLICHI
+{
+    display: grid;
+    grid-template-columns: 23% 23% 23% 23%;
+    grid-template-rows: 300px 300px;
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+
+.tituloGrupillo
+{
+    text-align: center;
+}
+
+.ganador1
+{
+    width: 20px;
+}

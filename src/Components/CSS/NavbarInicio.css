@@ -1,0 +1,29 @@
+
+.navbarInicio
+{
+    display: flex;
+    justify-content: flex-end;
+    background-color:rgb(10, 38, 51)
+}
+
+.navbarInicio ul 
+{
+    list-style: none;
+    
+}
+
+.navbarInicio ul li
+{
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.navbarInicio ul li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 18px;
+    
+}

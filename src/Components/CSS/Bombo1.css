@@ -1,0 +1,36 @@
+
+.listaBombo1xcv
+{
+    border: 1px solid black;
+    height: 50px;
+    pointer-events: visible;
+}
+
+.listaBombo1xcv:hover
+{
+    border: 2px solid blue;
+}
+
+.titulosssas
+{
+    text-align: center;
+    color: blue;
+}
+
+.separalasweas
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.imagenListabom1 img
+{
+    width: 40px;
+    height: 40px;
+}
+
+.claseNombre
+{
+    margin-right: 20px;
+}
